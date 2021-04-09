@@ -1,0 +1,13 @@
+{
+    "name": "Lab Hardt Organization Workflow",
+    "description": "Lab Hardt Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
