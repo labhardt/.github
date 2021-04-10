@@ -15,3 +15,6 @@ jobs:
 
       - name: Run a one-line script
         run: echo Hello from Lab Hardt Organization
+
+      - name: Run a second one-line script
+        run: echo Hello from the second step Lab Hardt Organization
